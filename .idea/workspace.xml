@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a415f59-c6b1-47dd-8918-2e70475861e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a415f59-c6b1-47dd-8918-2e70475861e5" name="Changes" comment="&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="35ae79e2-c566-4648-ae0a-2b82313b8b21" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2alB3taS76nNlmoOJfkVUmhGfLu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/Lab_1/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -37,17 +51,37 @@
       <option name="presentableId" value="Default" />
       <updated>1704883089922</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;v0.1 Created example classes Book, Library, LibraryManagement, Main">
+      <option name="closed" value="true" />
+      <created>1704884395294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704884395294</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods">
+      <option name="closed" value="true" />
+      <created>1704884749068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704884749068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods">
+      <option name="closed" value="true" />
+      <created>1704884887471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704884887471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit&#10;v0.1 Created example classes Book, Library, LibraryManagement, Main" />
+    <MESSAGE value="Initial commit&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods" />
+    <MESSAGE value="&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;v0.2 Set up classes Book, Library and LibraryManagement with core fields and methods" />
   </component>
 </project>
