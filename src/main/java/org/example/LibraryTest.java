@@ -33,5 +33,4 @@ public class LibraryTest {
         Book foundBook = library.findBookByTitle("НезнайомаНазва");
         assertNull(foundBook);
     }
-
 }
