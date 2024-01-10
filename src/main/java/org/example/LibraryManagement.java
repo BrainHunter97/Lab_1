@@ -9,7 +9,7 @@ public class LibraryManagement {
         library.addBook(new Book("Назва2", "Автор2", "ISBN222", 2010));
 
         // Показ усіх книг в бібліотеці
-        System.out.println("Усі книги в бібліотеці:");
+        System.out.println("Усі книгb в бібліотеці:");
         library.displayBooks();
 
         // Пошук книги за назвою
